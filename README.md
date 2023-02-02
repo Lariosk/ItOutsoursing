@@ -1,5 +1,5 @@
 # ItOutsoursing
 
-##Luis Fernando Cortés Guerrero
+## Luis Fernando Cortés Guerrero
 
-##Aquí se describe el proyecto... 
+- Aquí se describe el proyecto... 
